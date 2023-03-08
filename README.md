@@ -1,2 +1,2 @@
 # msfront
-MethodScript native compiler front-end.
+[An attempt at] MethodScript [subset] native compiler front-end.
